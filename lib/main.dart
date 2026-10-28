@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 // EACH MEMBER: replace your placeholder below with your own name.
 const String member1 = 'OJ Carlo O. Paculba';
-const String member2 = 'Member 2 Name';
+const String member2 = 'Lovern Jane B. Dela Cruz ';
 const String member3 = 'Member 3 Name';
 const String member4 = 'Member 4 Name';
 
